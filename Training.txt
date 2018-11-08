@@ -1,9 +1,11 @@
 https://pearsoninc.cyberu.com/
 testing1
 
-PM looks at the SSMDB and uses the two index levels to create a simple total return for the time period. The DPR is created using FactSet which looks at each individual day’s return and links them together for the time period. Using this method, FactSet will show a compounding effect and therefore have a slightly different return for the time period. 
+PM looks at the SSMDB and uses the two index levels to create a simple total return for the time period. The DPR is created using FactSet which looks at each individual dayâ€™s return and links them together for the time period. Using this method, FactSet will show a compounding effect and therefore have a slightly different return for the time period. 
 
 We hope that you find this information helpful.
 
 Best regards,
 ASK Research Team 
+
+added a line to check in Azure
